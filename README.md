@@ -1,5 +1,10 @@
 # node-cli-bio
 
+<<<<<<< HEAD
+=======
+Instructions:
+
+>>>>>>> 05cec85d5da107eb7ada50159d2d1b3c641b84e0
 ## Available Scripts
 
 In the project directory, you have to run the following commands in order:
